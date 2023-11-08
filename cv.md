@@ -17,9 +17,29 @@
 
 ### Skills
 
+- HTML
+- CSS (Framework Bootstrap, BEM methodology).
+  JavaScript (Fundamentals,Functional Programming, OOP, Asynchronous JavaScript, ES6+,DOM), JSON.
+
+- Swift (basic knowledge), Go (basic knowledge), Python (basic knowledge), SQLite (basic knowledge).
+- macOS, Windows OS
+- Figma (for web development)
+
 ---
 
 ### Code Examples
+
+```
+function reverseWords(str) {
+   a = str.split(' ')
+
+   const d = a.map(function (s) {
+      return s.split('').reverse().join('')
+   })
+
+   return d.join(' ')
+}
+```
 
 ---
 
