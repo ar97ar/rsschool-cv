@@ -13,17 +13,16 @@
 
 ### About Me
 
----
+I am an aspiring frontend developer with a great passion for technology and web application development. I use HTML, CSS and JavaScript as well as the ReactJS framework. I am able to work in a team, willing to learn and constantly strive to improve my skills. I am ready to contribute to the development of innovative and functional user interfaces.
 
 ### Skills
 
-- HTML
-- CSS (Framework Bootstrap, BEM methodology).
-  JavaScript (Fundamentals,Functional Programming, OOP, Asynchronous JavaScript, ES6+,DOM), JSON.
-
+- HTML 5
+- CSS 3
+- JavaScript
+- Figma (for web development)
 - Swift (basic knowledge), Go (basic knowledge), Python (basic knowledge), SQLite (basic knowledge).
 - macOS, Windows OS
-- Figma (for web development)
 
 ---
 
