@@ -1,11 +1,29 @@
-# 🖐🏽 Hello everyone, i'm Andrey
+### <span style="color:rgb(3, 102, 214)"> rsschool-cv</span>
 
-#### 💻 Frontend developer
+---
 
-### 📚 Образование
+# Andrey Ronzhin
 
-### 🛠️ Опыт работы
+---
 
-### ⛷️ Хобби
+### My Contact Info:
 
-### 📞 Контакты
+---
+
+### About Me
+
+---
+
+### Skills
+
+---
+
+### Code Examples
+
+---
+
+### Education
+
+---
+
+### Languages
