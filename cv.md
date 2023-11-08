@@ -8,7 +8,8 @@
 
 ### My Contact Info:
 
----
+- **Email:** an97ron@gmail.com
+- **GitHub:** [ar97ar](https://github.com/ar97ar/)
 
 ### About Me
 
@@ -24,6 +25,12 @@
 
 ### Education
 
+- **MGSU:** Applied Mathematics 2016 - 2020
+- **RANEPA:** Applied Corporate Finance 2020-2022
+
 ---
 
 ### Languages
+
+- **Russian** - native
+- **English** - B1
